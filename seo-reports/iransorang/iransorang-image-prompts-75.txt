@@ -1,0 +1,654 @@
+IRAN SORANG — 75 IMAGE PROMPTS FOR 25 BLOG ARTICLES (Nano Banana Pro)
+==============================================================================
+Global negative prompt (for tools with a negative field):
+text, letters, numbers, typography, watermark, logo, brand name, readable label, packaging artwork, blood, skin puncture, injection into body, human face, gore, bent or broken needle, extra needles, deformed syringe, warped plastic, duplicated parts, cluttered background, harsh shadows, specular hotspots, oversaturated colours, coloured gel lighting, cartoon, illustration, 3D render look, CGI, plastic toy look, dust, fingerprints, scratches, low resolution, blur, noise, chromatic aberration
+
+==============================================================================
+ARTICLE 01 | انواع سرنگ پزشکی: راهنمای کامل حجم، نوع اتصال، تعداد تکه و کاربرد هر مدل
+Focus keyword: انواع سرنگ
+URL: https://iransorang.com/انواع-سرنگ/
+------------------------------------------------------------------------------
+[hero] file: syringe-types-hero.webp  size: 1200×675 (16:9)
+alt: انواع سرنگ پزشکی از ۱ تا ۵۰ سی سی کنار هم
+caption: مقایسه‌ی بصری انواع سرنگ از نظر حجم؛ از سرنگ ۱ سی سی تا ۵۰ سی سی
+placement: تصویر شاخص (بالای مقاله)
+PROMPT:
+Seven sterile disposable syringes of increasing volume (1 ml, 2 ml, 3 ml, 5 ml, 10 ml, 20 ml, 50 ml), caps on, lying parallel on a seamless matte white surface in a gentle diagonal from small at lower-left to large at upper-right, evenly spaced like a size ladder. Clear barrels, white plungers, dark grey rubber stoppers. The largest syringe rests on a thin muted-teal acrylic riser. Camera at 35 degrees above the surface, mild perspective, the whole set in focus. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: syringe-types-inline-1.webp  size: 800×600 (4:3)
+alt: اجزای سرنگ سه تکه به صورت جدا شده
+caption: اجزای سرنگ در انواع سرنگ یکسان است؛ بارل، پیستون، رابر و سرسوزن در نمای تفکیک‌شده
+placement: زیر H2 «اجزای سرنگ»
+PROMPT:
+Exploded technical view of a single 5 ml three-piece syringe: barrel, plunger rod, rubber stopper, needle with hub and protective cap, each part floating in a straight horizontal line with equal gaps, aligned on one axis, casting faint separate shadows on a pure white background. Orthographic-looking side view, perfectly level, every edge crisp. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: syringe-types-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ انسولین، سرنگ توبرکولین و سرنگ گاواژ کنار هم
+caption: سه سرنگ تخصصی که نباید جای هم استفاده شوند؛ از انواع سرنگ پرکاربرد
+placement: زیر H2 «سرنگ‌های تخصصی»
+PROMPT:
+Three specialty syringes side by side on white: a slim 1 ml insulin syringe with an integrated fine needle and orange cap, a slim 1 ml tuberculin syringe with a separate capped needle, and a 60 ml enteral syringe with a long tapered catheter tip. Top-down view, arranged with generous spacing, a small muted-teal tray edge visible at the frame border. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 02 | تفاوت سرنگ لوئر لاک و لوئر اسلیپ: کدام را برای چه تزریقی بخرید؟
+Focus keyword: تفاوت سرنگ لوئر لاک
+URL: https://iransorang.com/تفاوت-سرنگ-لوئر-لاک-و-لوئر-اسلیپ/
+------------------------------------------------------------------------------
+[hero] file: luer-lock-vs-luer-slip-hero.webp  size: 1200×675 (16:9)
+alt: تفاوت سرنگ لوئر لاک و لوئر اسلیپ در نوک سرنگ
+caption: نوک رزوه‌دار لوئر لاک در برابر نوک ساده‌ی لوئر اسلیپ؛ اصلی‌ترین تفاوت سرنگ لوئر لاک
+placement: تصویر شاخص
+PROMPT:
+Macro side-by-side of two 10 ml syringe tips without needles, pointing toward the camera at a slight three-quarter angle: on the left a Luer-lock tip with a clearly visible internally threaded collar around the cone, on the right a plain conical Luer-slip tip. Both barrels clear polypropylene, background seamless white fading to a soft muted-teal gradient at the far edge. Shallow but sufficient depth of field so both tips are sharp, barrels softly falling out of focus. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: luer-lock-vs-luer-slip-inline-1.webp  size: 800×600 (4:3)
+alt: بستن سرسوزن روی سرنگ لوئر لاک با چرخش
+caption: قفل‌شدن سرسوزن با یک‌چهارم دور چرخش؛ اصلی‌ترین تفاوت سرنگ لوئر لاک در عمل
+placement: زیر H2 «سرنگ لوئر لاک چیست»
+PROMPT:
+Close-up of two hands in muted-teal nitrile gloves twisting a capped needle hub onto the threaded collar of a Luer-lock syringe, a quarter-turn motion implied by the wrist position. Needle cap stays on, needle not visible. Only gloved hands and syringe in frame, against a plain white surface, crisp focus on the thread engagement. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: luer-lock-vs-luer-slip-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ لوئر لاک متصل به سه‌راهی و اکستنشن
+caption: اتصال سرنگ لوئر لاک به سه‌راهی؛ جایی که تفاوت سرنگ لوئر لاک در عمل دیده می‌شود
+placement: زیر H2 «کجا لوئر لاک الزامی است»
+PROMPT:
+A 20 ml Luer-lock syringe connected to a clear three-way stopcock with a white tap and a coiled clear extension line, laid neatly on a white stainless instrument tray. Top-down view at 70 degrees, clinical and tidy, a single muted-teal tray liner under the set. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 03 | سرنگ سه تکه یا دو تکه؟ تفاوت ساختار، کاربرد و قیمت هر عدد
+Focus keyword: سرنگ سه تکه
+URL: https://iransorang.com/سرنگ-سه-تکه-و-دو-تکه/
+------------------------------------------------------------------------------
+[hero] file: three-piece-vs-two-piece-syringe-hero.webp  size: 1200×675 (16:9)
+alt: سرنگ سه تکه و سرنگ دو تکه کنار هم
+caption: سرنگ سه تکه با رابر خاکستری در کنار سرنگ دو تکه‌ی تمام‌پلاستیکی
+placement: تصویر شاخص
+PROMPT:
+Two 5 ml syringes lying parallel on seamless white, plungers half withdrawn: the left one a two-piece syringe made entirely of clear and white polypropylene with an integrated plastic sealing fin; the right one a three-piece syringe with a distinct dark grey rubber stopper. Top-down camera, the stoppers aligned on the same horizontal line so the contrast reads instantly. A muted-teal paper strip runs along the bottom edge. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: three-piece-vs-two-piece-syringe-inline-1.webp  size: 800×600 (4:3)
+alt: رابر پیستون سرنگ سه تکه داخل بارل
+caption: دو حلقه‌ی آب‌بند رابر؛ دلیل روانی حرکت در سرنگ سه تکه
+placement: زیر H2 «سرنگ سه تکه چیست»
+PROMPT:
+Extreme macro through the clear barrel wall of a three-piece syringe showing the rubber stopper with its two sealing ribs pressed against the inner wall, a faint silicone sheen visible on the plastic, a thin film of clear liquid ahead of the stopper. Background white, lighting from upper-left raking across the ribs to reveal texture. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: three-piece-vs-two-piece-syringe-inline-2.webp  size: 800×600 (4:3)
+alt: پیستون سرنگ دو تکه و پیستون سرنگ سه تکه
+caption: مقایسه‌ی پیستون‌ها: آب‌بند یکپارچه در دو تکه و رابر جدا در سرنگ سه تکه
+placement: زیر H2 «جدول مقایسه»
+PROMPT:
+Two plunger rods removed from their barrels and laid side by side on white, tips facing right: one with a moulded plastic sealing tip, one capped with a dark grey rubber stopper. Low side angle at 20 degrees so the profile of each seal is visible, soft reflection on the white surface. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 04 | جدول گیج سرسوزن: رنگ، قطر، طول و کاربرد هر سایز (استاندارد ISO 6009)
+Focus keyword: گیج سرسوزن
+URL: https://iransorang.com/جدول-گیج-سرسوزن/
+------------------------------------------------------------------------------
+[hero] file: needle-gauge-chart-hero.webp  size: 1200×675 (16:9)
+alt: گیج سرسوزن با رنگ‌بندی هاب‌ها از ضخیم تا نازک
+caption: هاب‌های رنگی سرسوزن که گیج سرسوزن را بدون خواندن عدد نشان می‌دهند
+placement: تصویر شاخص
+PROMPT:
+Eight capped hypodermic needles fanned out in a perfect semicircle on seamless white, hubs pointing to the centre, ordered from thickest to finest with ISO-style hub colours: pink, yellow, deep green, black, deep blue, medium purple, orange, brown. Clear protective caps on every needle. Top-down view, symmetrical, the colours are the only saturated elements in an otherwise white frame. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: needle-gauge-chart-inline-1.webp  size: 800×600 (4:3)
+alt: مقایسه‌ی قطر سرسوزن ۱۸، ۲۳ و ۳۰ گیج
+caption: تفاوت قطر سه گیج سرسوزن در نمای ماکرو
+placement: زیر H2 «جدول کامل گیج»
+PROMPT:
+Extreme macro of three uncapped needle tips floating horizontally in parallel against pure white, bevels facing the camera, from thick to very fine, pointing to the right and away from anything else in the scene. Raking light from upper-left reveals the polished bevel facets and lumen openings. Razor-sharp focus across all three tips. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: needle-gauge-chart-inline-2.webp  size: 800×600 (4:3)
+alt: سرسوزن هم‌گیج با طول‌های مختلف کنار خط‌کش
+caption: طول سرسوزن مستقل از گیج سرسوزن انتخاب می‌شود
+placement: زیر H2 «طول سرسوزن»
+PROMPT:
+Three capped needles of the same hub colour but different lengths (short, medium, long) laid parallel and left-aligned at their hubs beside a plain brushed-steel rule that carries only tick marks and no numerals. Top-down, flat lay on white, a thin muted-teal line under the rule. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 05 | راهنمای انتخاب سایز سرنگ: از ۱ تا ۵۰ سی سی، کدام حجم برای کدام کار؟
+Focus keyword: سایز سرنگ
+URL: https://iransorang.com/راهنمای-انتخاب-سایز-سرنگ/
+------------------------------------------------------------------------------
+[hero] file: syringe-size-guide-hero.webp  size: 1200×675 (16:9)
+alt: سایز سرنگ از ۱ تا ۵۰ سی سی در پایه‌ی ایستاده
+caption: سایز سرنگ‌ها در کنار هم مثل یک نمودار ستونی
+placement: تصویر شاخص
+PROMPT:
+Seven capped syringes standing upright, needle end down, in a clear acrylic rack, ordered from 1 ml to 50 ml so their heights rise like a bar chart from left to right. The rack sits on a muted-teal acrylic base. Straight-on eye-level view, seamless white backdrop, even soft light, reflections controlled. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: syringe-size-guide-inline-1.webp  size: 800×600 (4:3)
+alt: دو میلی‌لیتر مایع در سرنگ ۳ و ۱۰ سی سی
+caption: یک حجم یکسان در دو سایز سرنگ؛ دقت خواندن کاملاً متفاوت است
+placement: زیر H2 «قاعده‌ی ظرفیت»
+PROMPT:
+A 3 ml and a 10 ml syringe lying side by side on white, each holding exactly the same small volume of very pale teal-tinted clear liquid; in the small syringe the liquid fills most of the barrel, in the large one only a short column. Top-down, both stoppers aligned at the same left edge so the difference in fill fraction is obvious. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: syringe-size-guide-inline-2.webp  size: 800×600 (4:3)
+alt: سبد سایز سرنگ برای مطب در سینی سفید
+caption: یک سبد متعادل از سایز سرنگ برای شروع کار مطب
+placement: زیر H2 «سبد پیشنهادی»
+PROMPT:
+Flat lay of individually sealed syringes in plain peel packs with no printing, grouped by size into neat columns inside a white compartment tray: small sizes in larger quantities, large sizes in small quantities. Top-down, perfectly ordered, one compartment divider in muted teal. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 06 | نحوه‌ی خواندن درجه‌بندی سرنگ: هر خط سرنگ ۲، ۵ و ۱۰ سی سی چند میلی‌لیتر است؟
+Focus keyword: درجه بندی سرنگ
+URL: https://iransorang.com/درجه-بندی-سرنگ/
+------------------------------------------------------------------------------
+[hero] file: syringe-graduation-reading-hero.webp  size: 1200×675 (16:9)
+alt: درجه بندی سرنگ و لبه‌ی رابر روی یک خط
+caption: خواندن درجه بندی سرنگ از لبه‌ی جلویی رابر
+placement: تصویر شاخص
+PROMPT:
+Extreme macro of a clear syringe barrel filled with very pale teal-tinted liquid, the front edge of the dark grey rubber stopper resting exactly on one long graduation tick. The scale is printed as clean black tick marks of two lengths with absolutely no numerals. Shallow depth of field, focus locked on the stopper edge and the aligned tick, the rest of the barrel softly blurred, white background. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: syringe-graduation-reading-inline-1.webp  size: 800×600 (4:3)
+alt: خواندن سرنگ در سطح چشم با دست‌کش
+caption: نگه‌داشتن سرنگ در سطح چشم؛ شرط خواندن درست درجه بندی سرنگ
+placement: زیر H2 «خطای زاویه‌ی دید»
+PROMPT:
+Two hands in muted-teal nitrile gloves holding a capped 5 ml syringe perfectly horizontal at camera height, viewed exactly straight-on so the graduation ticks (no numerals) are perpendicular to the lens. Plain white background, the syringe barrel razor-sharp, gloves slightly softer. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: syringe-graduation-reading-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ خوراکی بدون سرسوزن کنار پیمانه‌ی دارو
+caption: درجه بندی سرنگ خوراکی بدون سرسوزن برای اندازه‌گیری دقیق دارو
+placement: زیر H2 «دوز خوراکی کودک»
+PROMPT:
+A needle-free oral dosing syringe with a clear barrel and a muted-teal plunger lying beside a small empty transparent medicine cup without markings, on a clean white kitchen-style counter. Soft daylight-like key from the upper-left, calm and domestic yet clinical, no bottles with labels. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 07 | سرنگ توبرکولین چیست؟ تفاوت سرنگ ۱ سی سی توبرکولین با سرنگ انسولین
+Focus keyword: سرنگ توبرکولین
+URL: https://iransorang.com/سرنگ-توبرکولین/
+------------------------------------------------------------------------------
+[hero] file: tuberculin-syringe-hero.webp  size: 1200×675 (16:9)
+alt: سرنگ توبرکولین یک سی سی کنار ویال
+caption: سرنگ توبرکولین؛ بدنه‌ی باریک و درجه‌بندی ریز برای حجم‌های بسیار کم
+placement: تصویر شاخص
+PROMPT:
+A slender 1 ml tuberculin syringe lying diagonally on seamless white, fine graduation ticks without numerals along the barrel, a short thin needle protected by a clear cap. Beside it a small clear glass vial with an aluminium crimp and plain grey stopper, no label. Camera at 30 degrees, soft upper-left light producing a delicate highlight along the barrel. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: tuberculin-syringe-inline-1.webp  size: 800×600 (4:3)
+alt: سرنگ توبرکولین و سرنگ انسولین کنار هم
+caption: دو سرنگ یک سی سی که شبیه‌اند اما سرنگ توبرکولین میلی‌لیتری و انسولین واحدی است
+placement: زیر H2 «۵ تفاوت با سرنگ انسولین»
+PROMPT:
+Top-down comparison on white: a 1 ml insulin syringe with integrated needle and orange cap on the left, a 1 ml tuberculin syringe with a detachable clear-capped needle on the right, barrels perfectly parallel and aligned at the flange. Graduation scales are different tick patterns, no numerals. A thin muted-teal divider line between them. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: tuberculin-syringe-inline-2.webp  size: 800×600 (4:3)
+alt: سینی واکسیناسیون با سرنگ توبرکولین بسته‌بندی‌شده
+caption: سرنگ توبرکولین در کنار ویال‌ها در یک ایستگاه واکسیناسیون
+placement: زیر H2 «کاربردهای مرسوم»
+PROMPT:
+A tidy stainless steel tray with several small unlabeled glass vials and four tuberculin syringes in sealed transparent peel packs with no printing, placed on a white clinic counter. Slightly elevated 45-degree view, cool clean light, a muted-teal cotton gauze square folded in the corner. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 08 | تشخیص کیفیت سرنگ قبل از خرید کارتنی: ۱۰ آزمون ساده در ۵ دقیقه
+Focus keyword: تشخیص کیفیت سرنگ
+URL: https://iransorang.com/تشخیص-کیفیت-سرنگ/
+------------------------------------------------------------------------------
+[hero] file: syringe-quality-check-hero.webp  size: 1200×675 (16:9)
+alt: تشخیص کیفیت سرنگ روی لایت‌باکس با ذره‌بین
+caption: بازرسی شفافیت بارل روی نور زمینه؛ نخستین گام تشخیص کیفیت سرنگ
+placement: تصویر شاخص
+PROMPT:
+Two hands in muted-teal nitrile gloves holding a capped 5 ml syringe horizontally just above a glowing white lightbox, the backlight revealing perfect barrel clarity and crisp tick marks with no numerals. A steel jeweller's loupe rests on the lightbox beside it. Camera at 30 degrees, clean white environment, no other objects. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: syringe-quality-check-inline-1.webp  size: 800×600 (4:3)
+alt: درز بسته‌بندی پیل سرنگ از نمای نزدیک
+caption: سالم بودن درز بسته‌بندی؛ بخشی از تشخیص کیفیت سرنگ که اغلب فراموش می‌شود
+placement: زیر H2 «بسته‌بندی و برچسب»
+PROMPT:
+Macro of the chevron peel seal of a sealed syringe pouch: white medical paper on one side, clear film on the other, the heat-seal pattern crisp and continuous, the syringe visible through the film. No printing or text on the pouch. Raking light from the upper-left emphasising the seal texture. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: syringe-quality-check-inline-2.webp  size: 800×600 (4:3)
+alt: نمونه‌ی سرنگ از کارتن برای کنترل کیفیت
+caption: پنج نمونه از یک کارتن؛ روش نمونه‌برداری برای تشخیص کیفیت سرنگ
+placement: زیر H2 «نمونه‌برداری از کارتن»
+PROMPT:
+An open plain white corrugated carton with rows of sealed syringes, and five syringes pulled out and laid in a neat row on a white inspection mat in front of it, next to a steel loupe and a small stainless kidney dish. Elevated 45-degree view, orderly laboratory feel, a muted-teal mat border. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 09 | هر واحد سرنگ انسولین چند سی سی است؟ جدول تبدیل واحد به میلی‌لیتر
+Focus keyword: هر واحد سرنگ انسولین
+URL: https://iransorang.com/هر-واحد-سرنگ-انسولین-چند-سی-سی/
+------------------------------------------------------------------------------
+[hero] file: insulin-syringe-units-to-ml-hero.webp  size: 1200×675 (16:9)
+alt: هر واحد سرنگ انسولین در سه اندازه‌ی ۳۰، ۵۰ و ۱۰۰ واحدی
+caption: سه سرنگ انسولین با گنجایش متفاوت؛ هر واحد سرنگ انسولین در همه‌ی آن‌ها ۰.۰۱ میلی‌لیتر است
+placement: تصویر شاخص
+PROMPT:
+Three insulin syringes of different capacities (0.3 ml, 0.5 ml and 1 ml) lying parallel on seamless white, orange needle caps on, barrels showing fine tick marks without any numerals. A small clear insulin-style vial with a grey stopper and no label stands upright behind them, slightly out of focus. Camera at 35 degrees, a muted-teal shadow-free backdrop gradient at the top edge. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: insulin-syringe-units-to-ml-inline-1.webp  size: 800×600 (4:3)
+alt: خطوط سرنگ انسولین در نمای ماکرو
+caption: فاصله‌ی خطوط کوچک و بزرگ روی بدنه؛ کلید خواندن هر واحد سرنگ انسولین
+placement: زیر H2 «هر خط چند واحد است»
+PROMPT:
+Extreme macro of an insulin syringe barrel holding clear liquid, the black rubber stopper edge sitting precisely on a short tick between two long ticks; the scale shows only tick marks with no numbers. Focus stacked so the stopper edge and ticks are razor sharp, background white. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: insulin-syringe-units-to-ml-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ انسولین برای مصرف یک ماه در ردیف‌های منظم
+caption: وقتی هر واحد سرنگ انسولین را درست بخوانید، مصرف یک ماه هم دقیق برآورد می‌شود
+placement: زیر H2 «محاسبه‌ی مصرف ماهانه»
+PROMPT:
+Thirty sealed insulin syringes in plain transparent peel packs arranged in a precise 5-by-6 grid on a white surface, viewed perfectly top-down, equal gaps between them, one pack in the corner slightly lifted to show depth. Minimal, rhythmic, a single muted-teal square tile under the grid. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 10 | انواع سرنگ انسولین: ۳۰، ۵۰ و ۱۰۰ واحدی، طول سوزن و گیج؛ راهنمای انتخاب
+Focus keyword: انواع سرنگ انسولین
+URL: https://iransorang.com/انواع-سرنگ-انسولین/
+------------------------------------------------------------------------------
+[hero] file: insulin-syringe-types-hero.webp  size: 1200×675 (16:9)
+alt: انواع سرنگ انسولین با طول سوزن مختلف
+caption: انواع سرنگ انسولین از نظر طول سوزن، از کوتاه تا بلند
+placement: تصویر شاخص
+PROMPT:
+Four insulin syringes standing upright in a clear acrylic stand, caps removed, very fine needles pointing straight up into empty air and away from everything, needle lengths visibly increasing from left to right. Seamless white background with a soft muted-teal gradient behind the stand. Eye-level, macro sharpness on the needle tips and hubs. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: insulin-syringe-types-inline-1.webp  size: 800×600 (4:3)
+alt: سرنگ انسولین با سرسوزن ثابت و سرسوزن جدا
+caption: فضای مرده در محل اتصال؛ تفاوت دو نوع از انواع سرنگ انسولین
+placement: زیر H2 «سرسوزن ثابت یا جدا»
+PROMPT:
+Macro cutaway-style side view of two insulin syringe tips on white: one with a needle moulded directly into the barrel tip, one with a separate needle hub mounted on a small cone, the small gap of trapped space at the hub just perceptible. Needles capped. Even, clinical light. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: insulin-syringe-types-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ انسولین ۰.۳، ۰.۵ و ۱ میلی‌لیتری
+caption: سه حجم رایج در میان انواع سرنگ انسولین: ۰.۳، ۰.۵ و ۱ میلی‌لیتر
+placement: زیر H2 «انتخاب بر اساس حجم»
+PROMPT:
+Three insulin syringes (0.3, 0.5 and 1 ml) lying on a white surface with their flanges aligned on the left, showing different barrel lengths and diameters, orange caps on. Perfect top-down, minimal, a thin muted-teal line under the flanges. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 11 | سرنگ انسولین بی دی اصل: ۸ نشانه‌ی اصالت و مقایسه با سرنگ‌های انسولین ایرانی
+Focus keyword: سرنگ انسولین بی دی
+URL: https://iransorang.com/سرنگ-انسولین-بی-دی/
+------------------------------------------------------------------------------
+[hero] file: bd-insulin-syringe-authentic-hero.webp  size: 1200×675 (16:9)
+alt: سرنگ انسولین بی دی در جعبه‌ی سفید بدون برچسب
+caption: نشانه‌های اصالت سرنگ انسولین بی دی از بسته‌بندی شروع می‌شود
+placement: تصویر شاخص
+PROMPT:
+A plain white unbranded box lying open on a white surface, revealing rows of insulin syringes with orange caps in individual clear sleeves; three syringes rest in front of the box in a loose fan. Absolutely no logos, brand marks or printing on the box. Camera at 40 degrees, soft upper-left key, a muted-teal card under the box edge. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: bd-insulin-syringe-authentic-inline-1.webp  size: 800×600 (4:3)
+alt: بررسی ناحیه‌ی چاپ لات و انقضا با ذره‌بین
+caption: بررسی کیفیت چاپ لات و تاریخ؛ یکی از نشانه‌های اصالت سرنگ انسولین بی دی
+placement: زیر H2 «۸ نشانه‌ی اصالت»
+PROMPT:
+A steel magnifying loupe held over the side panel of a plain white carton, through the lens a printed area appears only as an abstract pattern of tiny dots and short bars with no readable characters. Gloved fingertip in muted-teal nitrile at the frame edge. Macro, shallow depth of field. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: bd-insulin-syringe-authentic-inline-2.webp  size: 800×600 (4:3)
+alt: مقایسه‌ی دو سرنگ انسولین روی صفحه‌ی شطرنجی
+caption: مقایسه‌ی طول و ضخامت سوزن سرنگ انسولین بی دی با یک مدل ایرانی
+placement: زیر H2 «مقایسه‌ی مشخصات»
+PROMPT:
+Two unbranded insulin syringes laid parallel on a white cutting mat printed only with a fine light-grey grid (no numbers), caps removed and needles pointing right into empty space, needle lengths subtly different. Perfect top-down, technical comparison feel. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 12 | میکروست چیست؟ کاربرد، اجزا و تفاوت میکروست با ست سرم
+Focus keyword: میکروست چیست
+URL: https://iransorang.com/میکروست-چیست/
+------------------------------------------------------------------------------
+[hero] file: microset-guide-hero.webp  size: 1200×675 (16:9)
+alt: میکروست چیست؛ ست بورت‌دار آویزان از پایه‌ی سرم
+caption: پاسخ تصویری به پرسش میکروست چیست: ست بورت‌دار با محفظه‌ی مدرج
+placement: تصویر شاخص
+PROMPT:
+A burette-type microset hanging from a stainless IV pole hook: a clear cylindrical graduated chamber with tick marks only and no numerals, a drip chamber below, clear tubing falling in a neat loose coil, and a muted-teal roller clamp. Seamless white background, straight-on eye-level view, the chamber in crisp focus. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: microset-guide-inline-1.webp  size: 800×600 (4:3)
+alt: قطره‌ی ریز در محفظه‌ی قطره‌ی میکروست
+caption: میکروست چیست؟ ستی که لوله‌ی میکرودریپ آن در هر میلی‌لیتر ۶۰ قطره می‌سازد
+placement: زیر H2 «اجزای میکروست»
+PROMPT:
+Extreme macro of a micro-drip chamber: a thin metal drip tube inside a clear chamber forming a tiny spherical droplet about to fall, frozen in time, clear liquid below. Backlit softly with white, a hint of muted teal in the background bokeh. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: microset-guide-inline-2.webp  size: 800×600 (4:3)
+alt: ست سرم معمولی و میکروست کنار هم
+caption: برای فهم اینکه میکروست چیست، محفظه‌ی بورت را با ست سرم مقایسه کنید
+placement: زیر H2 «تفاوت میکروست و ست سرم»
+PROMPT:
+Flat lay on white: on the left a standard gravity IV set coiled neatly, on the right a burette microset coiled the same way, spikes capped, both sets fully empty and clean. Perfect top-down, mirrored composition, a thin muted-teal line dividing the two. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 13 | محاسبه قطرات سرم: فرمول، جدول آماده و تبدیل ماکرو به میکرو
+Focus keyword: محاسبه قطرات سرم
+URL: https://iransorang.com/محاسبه-قطرات-سرم/
+------------------------------------------------------------------------------
+[hero] file: iv-drip-rate-calculation-hero.webp  size: 1200×675 (16:9)
+alt: محاسبه قطرات سرم و قطره‌ی در حال سقوط در محفظه
+caption: هر قطره در محفظه شمرده می‌شود؛ پایه‌ی محاسبه قطرات سرم
+placement: تصویر شاخص
+PROMPT:
+Close-up of an IV drip chamber with a single clear droplet frozen mid-fall, a muted-teal roller clamp visible lower on the tubing, softly blurred clean white hospital-room background with gentle bokeh. Camera at chamber height, 100mm macro, crisp droplet, high-key and calm. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: iv-drip-rate-calculation-inline-1.webp  size: 800×600 (4:3)
+alt: تنظیم رگولاتور ست سرم با دست‌کش
+caption: تنظیم رگولاتور غلتکی پس از محاسبه قطرات سرم
+placement: زیر H2 «فرمول اصلی»
+PROMPT:
+Two hands in muted-teal nitrile gloves adjusting the roller clamp on clear IV tubing, thumb on the wheel, drip chamber visible above in soft focus. No patient, no cannula, no skin besides the gloves. White background, macro detail on the clamp wheel ridges. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: iv-drip-rate-calculation-inline-2.webp  size: 800×600 (4:3)
+alt: ست سرم و میکروست با کرنومتر بدون عدد
+caption: نوع ست و زمان؛ دو ورودی اصلی جدول محاسبه قطرات سرم
+placement: زیر H2 «جدول‌های آماده»
+PROMPT:
+Flat lay on white: a standard IV set and a burette microset coiled side by side, between them a minimalist stainless analogue stopwatch whose face carries only plain index marks and no numerals. Perfect top-down, balanced composition, muted-teal stopwatch strap. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 14 | تفاوت ست خون و ست سرم: فیلتر، اسپایک، سرسوزن و زمان تعویض
+Focus keyword: تفاوت ست خون و ست سرم
+URL: https://iransorang.com/تفاوت-ست-خون-و-ست-سرم/
+------------------------------------------------------------------------------
+[hero] file: blood-set-vs-iv-set-hero.webp  size: 1200×675 (16:9)
+alt: تفاوت ست خون و ست سرم با محفظه‌ی فیلتر
+caption: ست انتقال خون با محفظه‌ی فیلتر بزرگ‌تر؛ مهم‌ترین تفاوت ست خون و ست سرم
+placement: تصویر شاخص
+PROMPT:
+An empty, clean blood transfusion set laid in an elegant loose coil on seamless white: the larger cylindrical filter chamber with its visible mesh is the hero element, spike capped, tubing clear, roller clamp in muted teal. Absolutely no blood or red liquid. Camera at 40 degrees, soft upper-left key light. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: blood-set-vs-iv-set-inline-1.webp  size: 800×600 (4:3)
+alt: توری فیلتر ست خون از نمای نزدیک
+caption: توری فیلتر لخته؛ مهم‌ترین تفاوت ست خون و ست سرم از داخل
+placement: زیر H2 «فیلتر»
+PROMPT:
+Extreme macro through the clear wall of an empty blood-set filter chamber showing the fine woven mesh cylinder inside, perfectly clean, backlit with soft white light to reveal the weave. No liquid. Shallow depth of field, mesh texture razor-sharp. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: blood-set-vs-iv-set-inline-2.webp  size: 800×600 (4:3)
+alt: اسپایک ست خون و اسپایک ست سرم کنار هم
+caption: اسپایک ضخیم‌تر؛ تفاوت ست خون و ست سرم در محل ورود به کیسه
+placement: زیر H2 «اسپایک و محفظه‌ی قطره»
+PROMPT:
+Two uncapped spikes photographed side by side pointing up into empty air on white: a thicker transfusion spike and a slimmer standard infusion spike, their protective caps lying beside them. Low 15-degree angle, clinical, the spike tips in crisp focus. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 15 | راهنمای سایز سوند نلاتون: رنگ‌بندی فرنچ، قطر و انتخاب برای کودک و بزرگسال
+Focus keyword: سایز سوند نلاتون
+URL: https://iransorang.com/سایز-سوند-نلاتون/
+------------------------------------------------------------------------------
+[hero] file: nelaton-catheter-sizes-hero.webp  size: 1200×675 (16:9)
+alt: سایز سوند نلاتون با کانکتورهای رنگی
+caption: کانکتورهای رنگی که سایز سوند نلاتون را نشان می‌دهند
+placement: تصویر شاخص
+PROMPT:
+Seven nelaton catheters coiled into identical neat loops and arranged in a row on seamless white, their funnel connectors in a soft colour sequence (light green, blue, black, white, green, orange, red) facing the camera. Top-down at 80 degrees, airy spacing, matte surface, the connector colours as the only saturated elements. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: nelaton-catheter-sizes-inline-1.webp  size: 800×600 (4:3)
+alt: نوک گرد و چشمی جانبی سوند نلاتون
+caption: نوک گرد با دو چشمی جانبی که در هر سایز سوند نلاتون تکرار می‌شود
+placement: زیر H2 «طول سوند و شکل نوک»
+PROMPT:
+Extreme macro of the closed rounded tip of a clear-frosted nelaton catheter with two staggered lateral eyes, lying on white, raking light from upper-left revealing the smooth polished edges of the eyes. Shallow depth of field. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: nelaton-catheter-sizes-inline-2.webp  size: 800×600 (4:3)
+alt: مقطع سه سوند با قطر متفاوت
+caption: مقایسه‌ی قطر داخلی سه سایز سوند نلاتون
+placement: زیر H2 «فرنچ چیست»
+PROMPT:
+Three short clean-cut segments of catheter tubing of increasing diameter standing upright on a white acrylic block, viewed from a 30-degree angle so the circular cross-sections and lumen sizes are clearly comparable. Minimal, technical, a muted-teal block edge. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 16 | سایز سوند معده (NG Tube): راهنمای انتخاب فرنچ، طول و نوع برای تغذیه یا تخلیه
+Focus keyword: سایز سوند معده
+URL: https://iransorang.com/سایز-سوند-معده/
+------------------------------------------------------------------------------
+[hero] file: ng-tube-sizes-hero.webp  size: 1200×675 (16:9)
+alt: سایز سوند معده با علامت‌های طولی
+caption: سایز سوند معده با فرنچ مشخص می‌شود و علامت‌های طولی روی بدنه‌اند
+placement: تصویر شاخص
+PROMPT:
+A clear nasogastric tube coiled in a wide elegant spiral on seamless white, depth markings shown only as thin plain bands with no numerals, the funnel connector in muted teal resting at the centre of the spiral. Top-down at 75 degrees, airy negative space on the left. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: ng-tube-sizes-inline-1.webp  size: 800×600 (4:3)
+alt: نوک سوند معده با چشمی‌های جانبی و خط رادیواپک
+caption: چشمی‌های جانبی و نوار رادیواپک که در هر سایز سوند معده وجود دارند
+placement: زیر H2 «طول و علامت‌گذاری‌ها»
+PROMPT:
+Extreme macro of the distal end of a clear NG tube with several lateral eyes and a thin opaque radiopaque stripe running along its length, lying on white, raking light from upper-left. Clean, clinical, sharp detail on the eye edges. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: ng-tube-sizes-inline-2.webp  size: 800×600 (4:3)
+alt: سرنگ گاواژ کنار کانکتور سوند معده
+caption: سرنگ گاواژ نوک کاتتری باید با سایز سوند معده و کانکتور آن سازگار باشد
+placement: زیر H2 «اتصال به سرنگ گاواژ»
+PROMPT:
+A 60 ml catheter-tip enteral syringe lying beside the funnel connector of an NG tube, aligned tip-to-funnel with a small gap so the matching geometry is obvious, both on white. Low 20-degree side angle, crisp focus on the tip and funnel opening. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 17 | انواع ماسک اکسیژن: ساده، ونچوری و ریزروار؛ جدول جریان و غلظت اکسیژن
+Focus keyword: انواع ماسک اکسیژن
+URL: https://iransorang.com/انواع-ماسک-اکسیژن/
+------------------------------------------------------------------------------
+[hero] file: oxygen-mask-types-hero.webp  size: 1200×675 (16:9)
+alt: انواع ماسک اکسیژن ساده، ونچوری و ریزروار
+caption: سه خانواده از انواع ماسک اکسیژن در یک قاب
+placement: تصویر شاخص
+PROMPT:
+Three oxygen masks arranged side by side on seamless white: a simple clear face mask, a Venturi mask with its diluter adapter attached, and a non-rebreather mask with its deflated reservoir bag laid flat below it. Each mask's clear oxygen tubing coiled neatly beneath it. Camera at 35 degrees, soft upper-left key, elastic straps in muted teal. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: oxygen-mask-types-inline-1.webp  size: 800×600 (4:3)
+alt: دیلوترهای ماسک ونچوری در یک ردیف
+caption: دیلوترهای ماسک ونچوری؛ دقیق‌ترین گزینه در میان انواع ماسک اکسیژن
+placement: زیر H2 «ماسک ونچوری و دیلوترها»
+PROMPT:
+Six Venturi diluter adapters standing in a straight row on white, each a different soft muted colour (white, light grey, muted teal, pale blue, soft yellow, pale green), entrainment windows facing the camera, no numbers or printing on any of them. Eye-level macro, even soft light. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: oxygen-mask-types-inline-2.webp  size: 800×600 (4:3)
+alt: ماسک اکسیژن کودک و بزرگسال کنار هم
+caption: ماسک کودک و بزرگسال؛ سایزبندی در انواع ماسک اکسیژن
+placement: زیر H2 «سایزبندی کودک و نوزاد»
+PROMPT:
+An adult simple oxygen mask and a smaller paediatric mask placed side by side on white, both facing up so the inner contour is visible, straps neatly folded. Top-down at 70 degrees, clean, a muted-teal backdrop strip at the top edge. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 18 | کانولای بینی یا ماسک اکسیژن؟ مقایسه‌ی جریان، راحتی و کاربرد در منزل و بیمارستان
+Focus keyword: کانولای بینی یا ماسک
+URL: https://iransorang.com/کانولای-بینی-یا-ماسک-اکسیژن/
+------------------------------------------------------------------------------
+[hero] file: nasal-cannula-vs-oxygen-mask-hero.webp  size: 1200×675 (16:9)
+alt: کانولای بینی یا ماسک اکسیژن؛ کانولای حلقه‌شده
+caption: کانولای بینی یا ماسک؟ پرانگ‌های نرم کانولا گزینه‌ی سبک‌تر است
+placement: تصویر شاخص
+PROMPT:
+A clear nasal cannula with a very subtle teal tint, coiled in a smooth figure-eight on seamless white, the soft curved nasal prongs placed in the foreground in crisp macro focus, the rest of the tubing falling gently out of focus. Camera at 30 degrees, high-key and calm. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: nasal-cannula-vs-oxygen-mask-inline-1.webp  size: 800×600 (4:3)
+alt: کانولای بینی روی سر مانکن
+caption: کانولای بینی یا ماسک: جای‌گیری کانولا روی مانکن نمایشی
+placement: زیر H2 «راحتی، خوردن و صحبت‌کردن»
+PROMPT:
+A smooth featureless matte-white display mannequin head in three-quarter profile wearing a nasal cannula correctly looped over the ears and under the chin, prongs at the nostrils. No real person, no facial features beyond the sculpted form. Soft studio light, white background. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: nasal-cannula-vs-oxygen-mask-inline-2.webp  size: 800×600 (4:3)
+alt: کانولای بینی و ماسک اکسیژن ساده کنار هم
+caption: کانولای بینی یا ماسک ساده؛ مقایسه‌ی دیداری دو گزینه
+placement: زیر H2 «مقایسه در ۷ معیار»
+PROMPT:
+A nasal cannula and a simple oxygen face mask laid side by side on white with their oxygen tubing coiled identically beneath each, perfectly top-down, symmetrical composition, a thin muted-teal line separating the two halves. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 19 | تفاوت سرنگ گاواژ و سرنگ ۵۰ سی سی معمولی: نوک کاتتری، ENFit و خطر اتصال اشتباه
+Focus keyword: تفاوت سرنگ گاواژ
+URL: https://iransorang.com/تفاوت-سرنگ-گاواژ-و-سرنگ-50-سی-سی/
+------------------------------------------------------------------------------
+[hero] file: gavage-vs-50ml-syringe-hero.webp  size: 1200×675 (16:9)
+alt: تفاوت سرنگ گاواژ با نوک کاتتری و سرنگ ۵۰ سی سی لوئر
+caption: نوک بلند کاتتری در برابر نوک لوئر؛ تفاوت سرنگ گاواژ با سرنگ ۵۰ سی سی
+placement: تصویر شاخص
+PROMPT:
+Two large 60 ml syringes lying parallel on seamless white, plungers aligned: the upper one with a long tapered catheter tip, the lower one with a short Luer-lock tip. Perfect top-down view, strong clean silhouettes, a muted-teal paper card under the right third of the frame. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: gavage-vs-50ml-syringe-inline-1.webp  size: 800×600 (4:3)
+alt: نوک کاتتری و نوک لوئر در نمای ماکرو
+caption: تفاوت سرنگ گاواژ در نمای ماکرو: نوک پهن کاتتری در برابر نوک لوئر
+placement: زیر H2 «۶ تفاوت در یک جدول»
+PROMPT:
+Extreme macro of the two tips facing the camera side by side: a wide tapered catheter tip and a narrow threaded Luer-lock tip, on white, raking light from upper-left, both razor sharp at f/11. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: gavage-vs-50ml-syringe-inline-2.webp  size: 800×600 (4:3)
+alt: کانکتور تغذیه‌ی روده‌ای پیچی و کانکتور لوئر
+caption: هندسه‌ی متفاوت کانکتورها؛ تفاوت سرنگ گاواژ روده‌ای با لوئر که اتصال اشتباه را ناممکن می‌کند
+placement: زیر H2 «ENFit و استاندارد ISO 80369-3»
+PROMPT:
+Macro of an enteral syringe with a distinct screw-type enteral connector next to a standard Luer syringe tip, both pointing toward each other with a clear gap, showing visibly incompatible geometries. White background, the enteral plunger in muted teal, crisp focus. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 20 | سرنگ دامپزشکی: راهنمای خرید سرنگ و سرسوزن یکبار مصرف برای دامداری و مرغداری
+Focus keyword: سرنگ دامپزشکی
+URL: https://iransorang.com/سرنگ-دامپزشکی/
+------------------------------------------------------------------------------
+[hero] file: veterinary-syringe-guide-hero.webp  size: 1200×675 (16:9)
+alt: سرنگ دامپزشکی ۲۰ و ۵۰ سی سی در سینی استیل
+caption: سرنگ دامپزشکی و سرسوزن‌های ضخیم آماده‌ی واکسیناسیون گله
+placement: تصویر شاخص
+PROMPT:
+A brushed stainless steel tray on a light pale-wood workbench in a bright, spotless veterinary prep room, holding 20 ml and 50 ml syringes and several capped large-gauge needles in neat rows. Through a large window behind, a clean modern barn is softly blurred in daylight. Camera at 40 degrees, natural-looking soft key from upper-left, a muted-teal cloth folded at the tray corner. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: veterinary-syringe-guide-inline-1.webp  size: 800×600 (4:3)
+alt: سرسوزن ضخیم دامی با هاب صورتی و کرم
+caption: سرسوزن‌های ضخیم‌تری که همراه سرنگ دامپزشکی استفاده می‌شوند
+placement: زیر H2 «سرسوزن: گیج و طول»
+PROMPT:
+A row of six capped large-bore needles with pink and cream hubs lying perfectly parallel on white, varying lengths, top-down, crisp and technical, a muted-teal line along the bottom margin. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: veterinary-syringe-guide-inline-2.webp  size: 800×600 (4:3)
+alt: کارتن باز سرنگ ۵۰ سی سی در انبار
+caption: یک کارتن سرنگ دامپزشکی ۵۰ سی سی برای یک دوره‌ی واکسیناسیون
+placement: زیر H2 «محاسبه‌ی مصرف یک دوره»
+PROMPT:
+Top-down view into an open plain white corrugated carton packed with rows of individually sealed 50 ml syringes, more sealed cartons stacked softly out of focus in a clean warehouse background. No printing on any carton. Cool even light. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 21 | لیست تجهیزات مصرفی مطب و کلینیک: چک‌لیست ماهانه‌ی خرید با مقدار پیشنهادی
+Focus keyword: لیست تجهیزات مصرفی مطب
+URL: https://iransorang.com/لیست-تجهیزات-مصرفی-مطب/
+------------------------------------------------------------------------------
+[hero] file: clinic-consumables-checklist-hero.webp  size: 1200×675 (16:9)
+alt: لیست تجهیزات مصرفی مطب در قفسه‌ی مرتب
+caption: قفسه‌ی منظم اقلام مصرفی؛ اجرای عملی لیست تجهیزات مصرفی مطب
+placement: تصویر شاخص
+PROMPT:
+A spotless clinic supply room shelf with clear acrylic bins neatly holding syringes, coiled IV sets, oxygen masks and catheters, each bin marked only with a blank muted-teal colour tab and no writing. Straight-on view, bright even cool-white light, perfect order, shallow depth so the middle shelf is sharpest. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: clinic-consumables-checklist-inline-1.webp  size: 800×600 (4:3)
+alt: اقلام مصرفی یک ماه مطب به تفکیک گروه
+caption: یک ماه از اقلام لیست تجهیزات مصرفی مطب، گروه‌بندی‌شده
+placement: زیر H2 «جدول مقدار ماهانه»
+PROMPT:
+Top-down flat lay on white of a month's consumables grouped into four clear zones: syringes, infusion sets, oxygen items, catheters and gloves, each zone separated by generous white space, items aligned in tidy grids. Minimal and orderly, one muted-teal glove box without any printing. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: clinic-consumables-checklist-inline-2.webp  size: 800×600 (4:3)
+alt: چک‌لیست خالی روی کلیپ‌بورد کنار سرنگ
+caption: نسخه‌ی قابل چاپ لیست تجهیزات مصرفی مطب در کنار اقلام اصلی
+placement: زیر H2 «دانلود چک‌لیست»
+PROMPT:
+A white clipboard holding a sheet printed only with empty checkboxes and plain grey lines (no text), beside two sealed syringes and a coiled IV set on a white desk, a muted-teal pen resting diagonally across the clipboard. Camera at 45 degrees. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 22 | استعلام کد IRC تجهیزات پزشکی: راهنمای قدم‌به‌قدم بررسی اصالت سرنگ و ست سرم
+Focus keyword: استعلام کد IRC
+URL: https://iransorang.com/استعلام-کد-irc/
+------------------------------------------------------------------------------
+[hero] file: irc-code-inquiry-hero.webp  size: 1200×675 (16:9)
+alt: استعلام کد IRC با گوشی کنار جعبه‌ی تجهیزات پزشکی
+caption: استعلام کد IRC از روی بسته؛ گام نخست خرید مطمئن
+placement: تصویر شاخص
+PROMPT:
+A plain white sealed medical product box on a clean white desk carrying an abstract barcode-like block of bars and an iridescent holographic sticker, with no readable characters anywhere. Beside it a modern smartphone lying face-up with a softly glowing blank screen. Camera at 40 degrees, muted-teal desk mat under the phone. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: irc-code-inquiry-inline-1.webp  size: 800×600 (4:3)
+alt: برچسب هولوگرام اصالت روی بسته‌بندی
+caption: برچسب هولوگرام؛ مکمل استعلام کد IRC
+placement: زیر H2 «استعلام برچسب اصالت»
+PROMPT:
+Extreme macro of an iridescent holographic security sticker on white cardboard, showing an abstract geometric diffraction pattern shifting from teal to silver, absolutely no letters, digits or symbols that read as text. Light from upper-left to bring out the rainbow sheen. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: irc-code-inquiry-inline-2.webp  size: 800×600 (4:3)
+alt: فاکتور خرید و جعبه‌ی سرنگ روی میز بازرسی
+caption: تطبیق فاکتور با بسته؛ کنترل نهایی پس از استعلام کد IRC
+placement: زیر H2 «درج IRC در فاکتور»
+PROMPT:
+An inspection desk: a sheet of paper laid out like an invoice with only blank grey lines and empty table cells (no readable text), a plain white syringe box, a steel loupe and a muted-teal pen, all aligned neatly. Top-down, crisp, office-clinical mood. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 23 | مقایسه‌ی برندهای سرنگ ایرانی: آوا پزشک، سها، حلما طب، ورید، مینا سرنگ، هما سرنگ و دیگران در یک جدول
+Focus keyword: بهترین برند سرنگ ایرانی
+URL: https://iransorang.com/بهترین-برند-سرنگ-ایرانی/
+------------------------------------------------------------------------------
+[hero] file: iranian-syringe-brands-comparison-hero.webp  size: 1200×675 (16:9)
+alt: بهترین برند سرنگ ایرانی؛ ردیف سرنگ‌های بدون نشان
+caption: سرنگ‌های چند تولیدکننده‌ی داخلی در یک قاب؛ مقایسه برای یافتن بهترین برند سرنگ ایرانی
+placement: تصویر شاخص
+PROMPT:
+A precise grid of twelve unbranded 5 ml syringes on seamless white, arranged in three rows of four, each column with a subtly different plunger tint (white, clear, light grey, muted teal) to suggest different manufacturers. No logos, no printing. Perfect top-down, generous spacing, minimal and editorial. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: iranian-syringe-brands-comparison-inline-1.webp  size: 800×600 (4:3)
+alt: کارتن‌های بدون برچسب سرنگ در راهروی انبار
+caption: کارتن‌های تولیدکنندگان مختلف؛ داده‌ی پایه برای انتخاب بهترین برند سرنگ ایرانی
+placement: زیر H2 «جدول بزرگ مقایسه»
+PROMPT:
+A clean warehouse aisle with plain white and kraft cartons of different sizes stacked on low pallets, no logos or printing, shot at eye level down the aisle with shallow depth of field; a muted-teal floor safety line leads the eye into the frame. Cool, even overhead light. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: iranian-syringe-brands-comparison-inline-2.webp  size: 800×600 (4:3)
+alt: سه سرنگ مقابل سه جعبه‌ی ساده برای مقایسه
+caption: بهترین برند سرنگ ایرانی را با مقایسه‌ی مشخصات کنار بسته‌بندی پیدا کنید
+placement: زیر H2 «سرنگ ایرانی یا خارجی؟»
+PROMPT:
+Three syringes laid in front of three plain white boxes, each box marked only by a single abstract colour band (grey, light blue, muted teal) and no text or logo. Camera at 30 degrees, symmetrical, studio white background. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 24 | خرید سرنگ برای داروخانه: سبد موجودی، گردش کالا و برنامه‌ی سفارش کارتنی
+Focus keyword: خرید سرنگ برای داروخانه
+URL: https://iransorang.com/خرید-سرنگ-برای-داروخانه/
+------------------------------------------------------------------------------
+[hero] file: pharmacy-syringe-purchasing-hero.webp  size: 1200×675 (16:9)
+alt: خرید سرنگ برای داروخانه و قفسه‌ی انبار داروخانه
+caption: قفسه‌ی پشت پیشخوان داروخانه؛ جایی که برنامه‌ی خرید سرنگ برای داروخانه اجرا می‌شود
+placement: تصویر شاخص
+PROMPT:
+A modern pharmacy back-room with white shelving holding neatly faced plain white syringe boxes and a few sealed cartons on the lower shelf, no signage or printing anywhere. Straight-on view, bright neutral light, a muted-teal stripe along the shelf edges, calm and orderly. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: pharmacy-syringe-purchasing-inline-1.webp  size: 800×600 (4:3)
+alt: باز کردن کارتن سرنگ و چیدن جعبه‌ها در قفسه
+caption: تحویل کارتن و چیدمان؛ آخرین گام خرید سرنگ برای داروخانه
+placement: زیر H2 «ارسال از چهار انبار»
+PROMPT:
+Close-up of two hands in muted-teal nitrile gloves lifting plain white syringe boxes out of an opened corrugated carton and placing them onto a white shelf. Only hands and products, no faces, no text on boxes. Soft upper-left light, 45-degree angle. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: pharmacy-syringe-purchasing-inline-2.webp  size: 800×600 (4:3)
+alt: سه ستون جعبه با ارتفاع متفاوت برای تحلیل ABC
+caption: تحلیل ABC در خرید سرنگ برای داروخانه: پرگردش، میان‌گردش و کم‌گردش
+placement: زیر H2 «تحلیل ABC»
+PROMPT:
+Three stacks of identical plain white boxes on a white surface: a tall stack, a medium stack and a short stack, left to right, the tallest topped with a single muted-teal box. Eye-level, minimal, sculptural shadows. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+
+==============================================================================
+ARTICLE 25 | تاریخ انقضای سرنگ و اصول انبارداری: استریل EO، دما، رطوبت و چیدمان FEFO
+Focus keyword: تاریخ انقضای سرنگ
+URL: https://iransorang.com/تاریخ-انقضای-سرنگ/
+------------------------------------------------------------------------------
+[hero] file: syringe-expiry-storage-hero.webp  size: 1200×675 (16:9)
+alt: تاریخ انقضای سرنگ و انبار پالت‌بندی‌شده‌ی تجهیزات پزشکی
+caption: انبار تمیز و پالت‌بندی‌شده؛ شرط حفظ اعتبار تا تاریخ انقضای سرنگ
+placement: تصویر شاخص
+PROMPT:
+A clean, well-lit medical warehouse aisle with plain white cartons on metal racks, every pallet raised off the floor, no logos or printing, a muted-teal floor safety line running down the aisle toward a vanishing point. Eye-level, symmetrical one-point perspective, cool even light, spotless floor. Aspect ratio 16:9, composed for a 1200x675 px blog header with the subject slightly right of centre and calm empty space on the left. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline1] file: syringe-expiry-storage-inline-1.webp  size: 800×600 (4:3)
+alt: نمادهای تصویری روی بسته‌بندی پیل سرنگ
+caption: نماد ساعت شنی روی بسته همان تاریخ انقضای سرنگ را نشان می‌دهد
+placement: زیر H2 «نمادهای روی بسته»
+PROMPT:
+Macro of the paper side of a sealed syringe peel pouch showing two simple line-art pictograms only, an hourglass icon and a small factory icon, printed in grey, with absolutely no letters or digits beside them. Raking light from the upper-left reveals the paper fibre texture. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
+------------------------------------------------------------------------------
+[inline2] file: syringe-expiry-storage-inline-2.webp  size: 800×600 (4:3)
+alt: چیدمان FEFO با جعبه‌های قدیمی‌تر در جلوی قفسه
+caption: چیدمان FEFO؛ جعبه‌هایی که تاریخ انقضای سرنگ آن‌ها نزدیک‌تر است در ردیف جلو
+placement: زیر H2 «چیدمان FEFO»
+PROMPT:
+A white shelf viewed at 30 degrees with two rows of identical plain white boxes: the front row marked with muted-teal tabs, the back row with plain white tabs, clearly communicating 'use first' at the front. No text. Clean, even light, shallow depth focusing on the front row. Aspect ratio 4:3, composed for an 800x600 px in-article figure, subject centred with even margins. Photorealistic high-end medical product photography for a professional e-commerce blog. Lighting: one large soft diffused key light from the upper-left (softbox at 45 degrees), gentle white bounce fill from the right, soft natural contact shadows, no harsh specular hotspots. Colour palette strictly limited to clean white, clear medical-grade polypropylene, brushed surgical stainless steel and a single muted teal accent (#3E8E87). Clinical, minimal, uncluttered composition with generous negative space for web layout. Full-frame camera, 100mm macro lens, f/8 to f/11, ISO 100, tack-sharp focus on the subject, true-to-life colour, realistic micro-texture on plastic and steel. Absolutely no text, letters, numerals, logos, brand names or readable labels anywhere in the frame; any graduation scale appears only as clean tick marks without numbers. No needle touching or entering skin, no blood, no human faces.
